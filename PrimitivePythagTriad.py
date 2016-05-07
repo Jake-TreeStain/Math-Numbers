@@ -1,4 +1,3 @@
-#GIT READY
 #...Primitive PY-thagorean Triads...#
 #.........By Tristan Arthur.........#
 #             03/04/2016            #
