@@ -7,8 +7,8 @@ for num in range(start, cap):
         prime = 0
         for divide in range(start, num):
             if num % divide == 0:
-                primitive += 1
+                prime += 1
         if prime == 1:
             print(num)
             results += 1
-print(results)
+print("results:", results)
