@@ -1,6 +1,5 @@
 start = 1
 cap = 100
-prime = 0
 results = 0
 
 for num in range(start, cap):
